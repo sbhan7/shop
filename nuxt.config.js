@@ -23,6 +23,14 @@ export default {
   ** Global CSS
   */
   css: [
+    '@/assets/css/animate.css',
+    '@/assets/css/icomoon.css',
+    '@/assets/css/bootstrap.css',
+    '@/assets/css/magnific-popup.css',
+    '@/assets/css/owl.carousel.min.css',
+    '@/assets/css/owl.theme.default.min.css',
+    '@/assets/css/flexslider.css',
+    '@/assets/css/style.css',
   ],
   /*
   ** Plugins to load before mounting the App
